@@ -1,4 +1,4 @@
-name: Snyk SAST (Snyk Code)
+name: Snyk SAST (Snyk Code) 
 
 on:
   push:
