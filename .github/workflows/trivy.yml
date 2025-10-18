@@ -1,4 +1,4 @@
-name: Build & Trivy Scan (local only)
+name: Build & Trivy Scan (local only) 
 
 on:
   push:
